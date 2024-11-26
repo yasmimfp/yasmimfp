@@ -1,9 +1,6 @@
 ## Oii eu sou a Yasmim Alves, estudante de Ciência da Computação!!
 
-<div>
-  < a href="https://github.com/yasmimfp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?yasmimfp=anuraghazra&theme=radical_icons=true"
-</div>
+
 
 
 <div style="display: inline_block"><br>
